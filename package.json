@@ -1,0 +1,22 @@
+{
+  "name": "learneasycode-website",
+  "version": "1.0.0",
+  "description": "A modern login and registration popup UI built with HTML, CSS and TypeScript.",
+  "main": "script.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [
+    "typescript",
+    "login-ui",
+    "authentication-ui",
+    "frontend-project",
+    "popup-form"
+  ],
+  "author": "Mohit Yadav",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
